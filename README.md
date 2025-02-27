@@ -13,3 +13,7 @@ Something Awesome, Coming Soon!
 <a href="https://www.linkedin.com/in/aditya-bhanwadiya/">
   <img height="50" src="274785_hr_recruitment_social network_linkedin_icon.png"/>
 </a>
+
+<a href="mailto:bhanwadiya.aditya@gmail.com">
+  <img height="50" src="56275_email_gmail_mail_icon.png"/>
+</a>
