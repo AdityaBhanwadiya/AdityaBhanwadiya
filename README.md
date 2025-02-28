@@ -13,7 +13,11 @@
 <a href="mailto:bhanwadiya.aditya@gmail.com">
   <img height="50" src="56275_email_gmail_mail_icon.png"/>
 </a>
-          
+</p>
+
+<p align="center">
+<img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG91eWVqOG42aHpudHRlbTBzcWM5dHgzMno1anBiY2ZwOXUwM2l6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ye8n2abV5bBQY/giphy.gif"/>
+<p align="center">
           
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
@@ -101,8 +105,11 @@
 
 
           
-          
-</p>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaBhanwadiya&layout=donut-vertical&langs_count=8&card_width=300" />
+</a>
 
 
 
