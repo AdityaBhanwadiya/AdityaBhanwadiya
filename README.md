@@ -15,9 +15,6 @@
 </a>
 </p>
 
-<p align="center">
-<img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG91eWVqOG42aHpudHRlbTBzcWM5dHgzMno1anBiY2ZwOXUwM2l6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ye8n2abV5bBQY/giphy.gif"/>
-<p align="center">
           
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
